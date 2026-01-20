@@ -1,0 +1,9 @@
+{
+  "name": "LEON AI",
+  "description": "A high-performance digital assistant featuring human-like voice interaction, system control simulation, creative generation (images/videos), and real-time task management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
